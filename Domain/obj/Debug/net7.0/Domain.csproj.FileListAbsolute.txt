@@ -1,0 +1,12 @@
+/Users/jecadriano/C#/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/jecadriano/C#/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/jecadriano/C#/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/jecadriano/C#/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/jecadriano/C#/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jecadriano/C#/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/jecadriano/C#/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/jecadriano/C#/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/jecadriano/C#/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/jecadriano/C#/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/jecadriano/C#/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/jecadriano/C#/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
